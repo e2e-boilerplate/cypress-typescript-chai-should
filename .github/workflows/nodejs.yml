@@ -1,8 +1,8 @@
-name: cypress-typescript-chai-assert
+name: cypress-typescript-chai-should
 'on':
   push: null
   schedule:
-    - cron: 30 3 1-31/2 * *
+    - cron: 10 1 1-31/2 * *
 jobs:
   build:
     runs-on: ubuntu-latest

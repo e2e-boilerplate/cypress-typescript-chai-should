@@ -1,14 +1,14 @@
 {
   "author": "Girma Nigusse <xgirma@gmail.com>",
   "bugs": {
-    "url": "https://github.com/e2e-boilerplate/cypress-typescript-chai-assert/issues"
+    "url": "https://github.com/e2e-boilerplate/cypress-typescript-chai-should/issues"
   },
   "dependencies": {
     "cypress": "4.3.0",
     "rimraf": "3.0.2",
     "typescript": "3.8.3"
   },
-  "description": "Cypress end-to-end test automation boilerplate. Using TypeScript, Chai and Assert.",
+  "description": "Cypress end-to-end test automation boilerplate. Using TypeScript, Chai and Should.",
   "devDependencies": {
     "@types/chai": "4.2.11",
     "eslint-plugin-cypress": "2.10.3",
@@ -19,14 +19,13 @@
     "tslint-config-prettier": "1.18.0",
     "tslint-plugin-prettier": "2.3.0"
   },
-  "homepage": "https://github.com/e2e-boilerplate/cypress-typescript-chai-assert#readme",
+  "homepage": "https://github.com/e2e-boilerplate/cypress-typescript-chai-should#readme",
   "husky": {
     "hooks": {
       "pre-commit": "lint-staged"
     }
   },
   "keywords": [
-    "assert",
     "boilerplate",
     "chai",
     "cypress",
@@ -34,6 +33,7 @@
     "e2e tests",
     "example",
     "integration test",
+    "should",
     "typescript"
   ],
   "license": "MIT",
@@ -42,10 +42,10 @@
       "prettier --write"
     ]
   },
-  "name": "cypress-typescript-chai-assert",
+  "name": "cypress-typescript-chai-should",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/e2e-boilerplate/cypress-typescript-chai-assert.git"
+    "url": "git+https://github.com/e2e-boilerplate/cypress-typescript-chai-should.git"
   },
   "scripts": {
     "clean:screenshots": "npx cypress/screenshots/*",

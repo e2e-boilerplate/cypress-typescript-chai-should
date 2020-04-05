@@ -1,0 +1,10 @@
+| referrer                                                                           | count | uniques |
+| :--------------------------------------------------------------------------------- | :---- | :------ |
+| /e2e-boilerplate/cypress-typescript-chai-should                                    | 8     | 1       |
+| /e2e-boilerplate/cypress-typescript-chai-should/actions                            | 3     | 1       |
+| /e2e-boilerplate/cypress-typescript-chai-should/blob/master/package.json           | 2     | 1       |
+| /e2e-boilerplate/cypress-typescript-chai-should/blob/master/.github/runs_status.md | 1     | 1       |
+| /e2e-boilerplate/cypress-typescript-chai-should/blob/master/tsconfig.json          | 1     | 1       |
+| /e2e-boilerplate/cypress-typescript-chai-should/tree/master/cypress                | 1     | 1       |
+| /e2e-boilerplate/cypress-typescript-chai-should/tree/master/cypress/integration    | 1     | 1       |
+| /e2e-boilerplate/cypress-typescript-chai-should/tree/master/.github                | 1     | 1       |
